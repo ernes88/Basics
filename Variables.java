@@ -9,9 +9,5 @@ public class Variables {
 		System.out.println(edadMax);
 		edad=75;
 		System.out.println(edad);
-		/*aca se usa el metodo println del objeto out de la clase System para 
-		 * para imprimir edades
-		 */
 	}
-
 }
